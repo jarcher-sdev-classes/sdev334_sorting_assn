@@ -1,6 +1,5 @@
 package program;
 
-import model.Product;
 import model.YourModelClass;
 
 //TODO add your model input/output class here (e.g., a class that reads records from a file)
