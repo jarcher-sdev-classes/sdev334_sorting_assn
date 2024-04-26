@@ -106,6 +106,9 @@ Note: We are implementing the in-place version of the heap sort algorithm. This 
 in place and no additional memory is used. If you are using additional memory (e.g. a second array, or list), 
 you are not implementing the algorithm correctly.
 
+Note: No recursive solutions for the heap sort algorithm are allowed. The algorithm should be implemented using
+loops only.
+
 When you are done, you can use the HeapSorter class to sort your dataset, rather than the Arrays.sort() method.
 Verify that the application still works as expected.
 
